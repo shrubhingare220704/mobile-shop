@@ -88,3 +88,15 @@ p{
     background-color:  #ccccff;
     margin: 10px;
 }
+
+.product-container-column{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: end;
+    height: 375px;
+    background-color:  #ccccff;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
