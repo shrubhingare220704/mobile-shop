@@ -77,3 +77,14 @@ p{
     text-align: center;
     
 }
+
+.product-container-row-reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 375px;
+    background-color:  #ccccff;
+    margin: 10px;
+}
